@@ -1,3 +1,0 @@
-/Users/amertaydin/Desktop/C++ Features/smart_pointers/cmake-build-debug/CMakeFiles/smart_pointers.dir
-/Users/amertaydin/Desktop/C++ Features/smart_pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/amertaydin/Desktop/C++ Features/smart_pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
